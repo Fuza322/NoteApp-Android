@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="whats_in_your_mind">Enter note description</string>
+    <string name="no_notes">Note list is empty. Add note please!</string>
+    <string name="action_settings">Settings</string>
+    <string name="share_note">Share Note</string>
+    <string name="delete_notes">Remove Notes</string>
+    <string name="title">Enter note title</string>
+    <string name="tags">Enter note tags </string>
+
+    <string name="sort_by_title_up_inactive">Сортировать по названию ↑</string>
+    <string name="sort_by_title_up_active">Сортировать по названию ↑(Выбрано)</string>
+
+    <string name="sort_by_title_down_inactive">Сортировать по названию ↓</string>
+    <string name="sort_by_title_down_active">Сортировать по названию ↓(Выбрано)</string>
+
+    <string name="sort_by_date_up_inactive">Сортировать по дате ↑</string>
+    <string name="sort_by_date_up_active">Сортировать по дате ↑(Выбрано)</string>
+
+    <string name="sort_by_date_down_inactive">Сортировать по дате ↓</string>
+    <string name="sort_by_date_down_active">Сортировать по дате ↓(Выбрано)</string>
+
+    <string name="sort_by_nothing_inactive">Отключить сортировку</string>
+    <string name="sort_by_nothing_active">Отключить сортировку(Выбрано)</string>
+</resources>
